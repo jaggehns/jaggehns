@@ -28,9 +28,9 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-![Jaggehn's Stats](https://github-readme-stats.vercel.app/api?username=jaggehns&show_icons=true&theme=algolia)
+![Jaggehn's Stats](https://github-readme-stats.vercel.app/api?username=jaggehns&show_icons=true&theme=prussian)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaggehns&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaggehns&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
