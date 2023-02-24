@@ -31,9 +31,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="Jest logo" width="40px" height="50px" />&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="Jenkins logo" width="50px" height="50px" />&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" alt="Jira logo" width="50px" height="50px" />&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt="Git logo" width="50px" height="50px" />
-
----
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt="Git logo" width="50px" height="50px" />&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" alt="Docker logo" width="50px" height="50px" />
 
 ### ⚙️ &nbsp;GitHub Analytics
 
