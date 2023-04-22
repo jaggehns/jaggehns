@@ -4,7 +4,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.
+- 💡 &nbsp;I like to explore new technologies and discover better ways to design and develop software.
 - 🎓 &nbsp;Degree in Electrical & Electronic Engineering from the University of Nottingham.
 - 🌱 &nbsp;Currently learning more about TypeScript, Microservices, and System Design.
 - ✍️ &nbsp;In my free time, I enjoy playing Chess and working on Personal Projects.
