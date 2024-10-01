@@ -5,7 +5,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 - 💡 &nbsp;I like to explore new technologies and discover better ways to design and develop software.
-- 🎓 &nbsp;Degree in Electrical & Electronic Engineering from the University of Nottingham.
+- 🎓 &nbsp;Masters in Computer Science from the University of York.
 - 🌱 &nbsp;Currently learning more about TypeScript, Microservices, and System Design.
 - ✍️ &nbsp;In my free time, I enjoy playing Chess and working on Personal Projects.
 
@@ -26,7 +26,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux logo" width="50px" height="50px" />&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" alt="Gatsby logo" width="50px" height="50px" />&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node logo" width="50px" height="50px" />&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express logo" width="50px" height="50px" />&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" alt="NestJS logo" width="50px" height="50px" />&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="Spring logo" width="50px" height="50px" />&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="Firebase logo" width="50px" height="50px" />&nbsp;&nbsp;
