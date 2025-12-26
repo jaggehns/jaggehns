@@ -6,7 +6,7 @@
 
 - 💡 &nbsp;I like to explore new technologies and discover better ways to design and develop software.
 - 🎓 &nbsp;Masters in Computer Science from the University of York.
-- 🌱 &nbsp;Currently learning more about TypeScript, Microservices, and System Design.
+- 🌱 &nbsp;Currently learning more about LLMs, RAG, and AI Agents.
 - ✍️ &nbsp;In my free time, I enjoy playing Chess and working on Personal Projects.
 
 ---
